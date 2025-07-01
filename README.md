@@ -39,13 +39,6 @@
 
 ---
 
-### 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayushbikramlamichhane&theme=tokyonight&hide_border=false" />
-</p>
-
----
 
 ### 🤝 Connect with Me:
 
